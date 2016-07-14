@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://188.188.0.52/Release/IOS/DEV/tgame.ipa</string>
+					<string>http://188.188.0.52/Release/IOS/QA/tgame.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
