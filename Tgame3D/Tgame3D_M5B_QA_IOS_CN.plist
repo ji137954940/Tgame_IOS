@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://188.188.0.137/ftp/ver/M5B/QA/IOS/tgame.ipa</string>
+					<string>http://188.188.0.137/ftp/ver/M5B/QA/IOS/krly.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tianshen.shuguang.tgame</string>
+				<string>com.zeus.awesome.krly</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
